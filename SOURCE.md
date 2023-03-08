@@ -1,6 +1,6 @@
 HEADING
 
-`Welcome to Riyadh`
+`c`
 
 SUB HEAD
 
@@ -57,7 +57,7 @@ SMALLER SUB HEAD
 LINK 1
 
 `Lonely Planet`
-`http://www.lonelyplanet.com/saudi-arabia/riyadh`
+`ttp://www.lonelyplanet.com/saudi-arabia/riyadhh`
 
 LINK 2
 

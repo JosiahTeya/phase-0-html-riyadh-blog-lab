@@ -21,16 +21,16 @@ body {
 
 #content {
   padding: 20px;
-  background: rgba(255,255,255,.85);
+  background: rgba(160, 51, 51, 0.85);
 }
 
 h1, h2 {
   font-family: 'Gabriela', serif;
-  color: #fff;
+  color: #3d4a4b;
 }
 
 h1 {
-  font-size: 3.5em;
+  font: size 3.5em;
   margin-bottom: 0;
 }
 
@@ -56,7 +56,7 @@ p {
 }
 
 a {
-  color: black;
+  color: rgb(17, 15, 34);
   text-decoration: none;
 }
 
